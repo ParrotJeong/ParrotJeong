@@ -1,6 +1,6 @@
 # Hey there! I'm Parrot 🦜
 
-**7년차 백엔드 개발자가 새로운 날개를 펼치는 중입니다.**
+**백엔드 개발자가 새로운 날개를 펼치는 중입니다.**
 
 Spring Boot와 Kotlin으로 밥벌이하고, Python으로 AI를 탐험하고, Next.js로 눈에 보이는 걸 만들고 있어요.
 
